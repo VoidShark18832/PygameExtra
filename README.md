@@ -3,7 +3,7 @@ Extras for pygame to make making games easier
 
 
 # Meanings of abbreviations
-AB = aliceblue
+AB = aliceblue \n
 AW = antiquewhite
 AW1 = antiquewhite1
 AW2 = antiquewhite2
