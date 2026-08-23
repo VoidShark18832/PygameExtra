@@ -1,2 +1,2 @@
 import shortened as ShortenedPygameColours
-from ShortenedPygameColours import *
+import explained as ExplainShortenedPygameColours
